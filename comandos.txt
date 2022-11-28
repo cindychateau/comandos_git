@@ -12,7 +12,18 @@ rmdir   -> Elimina una carpeta
 mv NOMBRE DEL ARCHIVO ../NOMBRE DEL ARCHIVO -> MOver un archivo para la carpeta padre
 
 GIT
+(Solo se hacen la primera vez)
 git config --global user.name "Tu nombre"
 git config --global user.email tucorreo@ejemplo.com
 
 git config --global --list
+
+
+1)git init (inicializar)
+2)git add . (agregar los archivos)
+3)git commit -m "Mensaje"
+4)git remote add origin url-de-github
+5)git push -u origin master | main
+
+CAMBIO
+2, 3, 5
