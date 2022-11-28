@@ -1,0 +1,18 @@
+COMANDOS
+cd      -> Nos permite navegar a través de las carpetas (.. nos permite ir a una carpeta arriba/padre)
+ls      -> Nos dice qué archivos y carpetas se encuentran en mi locación actual
+ls -l   -> Nos dice archivos y carpetas de manera más detallada
+pwd     -> Nos dices dónde estamos
+mkdir   -> Crea una nueva carpeta
+touch   -> Crea un nuevo archivo
+mv      -> Cambia el nombre del archivo O BIEN cambia la locación del archivo
+rm      -> Elimina un archivo
+rmdir   -> Elimina una carpeta
+
+mv NOMBRE DEL ARCHIVO ../NOMBRE DEL ARCHIVO -> MOver un archivo para la carpeta padre
+
+GIT
+git config --global user.name "Tu nombre"
+git config --global user.email tucorreo@ejemplo.com
+
+git config --global --list
